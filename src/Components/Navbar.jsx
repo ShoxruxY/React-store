@@ -15,6 +15,9 @@ export function Navbar(){
                 <Link to="Contact">
                 <button className = "navbutton">Contact us</button>
                 </Link>
+                <Link to="Cart">
+                <button className = "navbutton">Cart</button>
+                </Link>
         </div>
     )
 }

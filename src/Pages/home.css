@@ -1,0 +1,15 @@
+.menu {
+    width: 70%;
+    align-items: center;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+}
+.home-button {
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px 50px;
+    border-radius: 12px;
+    background-color: greenyellow;
+    border-color: greenyellow;
+}
